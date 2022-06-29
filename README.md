@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayzi&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-### Tecnologias que uso.
+### Tecnologias que uso
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,8 +22,4 @@
 <div> 
   <a href ="thayzigarcia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/thayzi-mendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-<div>
-  ![Snake animation](https://github.com/Thayzi/Thayzi/blob/main/.github/workflows/main.yml)
 </div>
